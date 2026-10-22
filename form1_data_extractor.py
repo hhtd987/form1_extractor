@@ -8,7 +8,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font
 from openpyxl.utils import get_column_letter
 
-os.chdir(r"C:/Users/pc/OneDrive/Desktop/usb_backup_29_7_2026/mycodes/pyprojects/form1_info_extract")
+os.chdir(r"C:/Users/BEST LAPTOP/Desktop/form1_extractor")
 
 # =====================
 # READ SQL FILE
